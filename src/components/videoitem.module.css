@@ -1,0 +1,10 @@
+.videoItem{
+    background: transparent;
+    cursor: pointer;
+    transition: all .2s ease;
+    display: flex;
+}
+
+.videoItem:hover{
+    background: tomato;
+}
